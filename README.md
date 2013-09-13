@@ -1,0 +1,4 @@
+mdialog
+=======
+
+Javascript dialog confirm
